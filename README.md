@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://mimi-030.github.io/](https://mimi-030.github.io/)
+- 👨‍💻 All of my projects are available at [Github Blog](https://reurl.cc/7RVdz5)
 
-- 📝 I regularly write articles on [https://medium.com/@a102302301_23985/](https://medium.com/@a102302301_23985/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@a102302301_23985/)
 
 - 💬 Ask me about **my experience working with cloud computing platforms such as GCP or AWS.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mimi-c-041414259/](https://www.linkedin.com/in/mimi-c-041414259/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mimi-c/)
 
 - ⚡ Fun fact **🌸 My life is like a romantic comedy, but without the romance or the comedy!❤️**
 
