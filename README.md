@@ -1,4 +1,3 @@
-# mimi-030
 <h1 align="center">Hi 👋, I'm Mimi</h1>
 <h3 align="center">Code with a smile and let your creativity run wild! 🌈✨</h3>
 
