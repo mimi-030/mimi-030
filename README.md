@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mimi</h1>
-<h3 align="center">Code with a smile and let your creativity run wild! 🌈✨</h3>
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=fdbecc&height=100&section=header&text=Code%20with%20a%20smil%20and%20let%20your%20creativity%20run%20wild!%20🌈✨&fontSize=30&fontColor=ffffff)
 - 🔭 I’m currently working on **Google Cloud AI**
 
 - 🌱 I’m currently learning **AWS**
@@ -9,15 +7,16 @@
 
 - 📝 I regularly write articles on [https://medium.com/@a102302301_23985/](https://medium.com/@a102302301_23985/)
 
-- 💬 Ask me about **my experience working with cloud computing platforms such as GCP or AWS..**
+- 💬 Ask me about **my experience working with cloud computing platforms such as GCP or AWS.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mimi-c-041414259/](https://www.linkedin.com/in/mimi-c-041414259/)
 
-- ⚡ Fun fact **My IG is full of kawaii goodness! 🌸 with 12k+ followers!❤️**
+- ⚡ Fun fact **🌸 My life is like a romantic comedy, but without the romance or the comedy!❤️**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul>
+    <li style="font-weight: bold;"><a href="https://mimi-030.github.io/2023/03/25/gcp-speech/"><strong>A Live Speech Translation Using Google Cloud AI</strong></a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
