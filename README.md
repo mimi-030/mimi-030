@@ -17,6 +17,9 @@
 <ul>
     <li style="font-weight: bold;"><a href="https://mimi-030.github.io/2023/03/25/gcp-speech/"><strong>A Live Speech Translation Using Google Cloud AI</strong></a></li>
 </ul>
+<ul>
+    <li style="font-weight: bold;"><a href="https://mimi-030.github.io/2023/03/25/Google-Cloud/"><strong>Transform Your Audio Files with Ease: Effortlessly Transcribe and Translate at Scale with Google Cloud</strong></a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
