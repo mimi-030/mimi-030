@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=fdbecc&height=100&section=header&text=Code%20with%20a%20smile%20and%20let%20your%20creativity%20run%20wild!%20🌈✨&fontSize=30&fontColor=ffffff)
-- 🔭 I’m currently working on **Google Cloud AI**
+- 🔭 I’m currently working on **Google Cloud AI** *(Google Certificated Professional Cloud Architect)*
 
 - 🌱 I’m currently learning **AWS**
 
