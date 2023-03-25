@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **🌸 My life is like a romantic comedy, but without the romance or the comedy!❤️**
 
-### Blog posts
+### Blog's posts
 <ul>
     <li style="font-weight: bold;"><a href="https://mimi-030.github.io/2023/03/25/gcp-speech/"><strong>A Live Speech Translation Using Google Cloud AI</strong></a></li>
 </ul>
